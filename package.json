@@ -1,0 +1,7 @@
+{
+  "name": "twinkle-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^7.0.0"
+  }
+}
